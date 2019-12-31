@@ -675,3 +675,7 @@
 ||zhihu.com
 ||zimuzu.tv
 ||zuk.cn
+
+! add
+||acgvideo.com
+||hdslb.com
