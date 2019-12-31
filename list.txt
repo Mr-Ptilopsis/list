@@ -676,6 +676,7 @@
 ||zimuzu.tv
 ||zuk.cn
 
-! add
+! add-bilibili
 ||acgvideo.com
 ||hdslb.com
+||bilivideo.com
