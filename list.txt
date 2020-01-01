@@ -68,9 +68,7 @@
 ||acg.tv
 ||acgvideo.com
 ||acs.org
-||aday01.com
 ||adf.ly
-||aicheren.com
 ||aipai.com
 ||airbnb.cn
 ||aiwebcom.com
@@ -656,7 +654,6 @@
 ||xycdn.com
 
 ! Y
-||yamibo.com
 ||yaohuo.me
 ||ydstatic.com
 ||yecdn.com
@@ -665,11 +662,8 @@
 ||yinxiang.com
 ||ykimg.com
 ||ylmf.net
-||ynzs.cn
 ||youdao.com
 ||youku.com
-||youth.cn
-||yunpian.com
 
 ! Z
 ||zhihu.com
