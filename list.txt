@@ -669,6 +669,8 @@
 ||acgvideo.com
 ||hdslb.com
 ||bilivideo.com
+||biliapi.net
+||bilibili.com
 
 ! 文献检索
 ||gxlib.org
