@@ -526,6 +526,7 @@
 ||smart2pay.com
 ||smartgslb.com
 ||smartisan.com
+||smtcdns.net
 ||smzdm.com
 ||so.com
 ||sogou.com
