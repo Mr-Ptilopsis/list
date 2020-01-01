@@ -311,7 +311,6 @@
 ||ithome.com
 
 ! J
-||j.cn
 ||jandan.net
 ||javaeye.com
 ||jb51.net
@@ -431,18 +430,14 @@
 
 ! O
 ||obsapp.com
-||oekaki.so
 ||omico.me
 ||oneplus.cn
 ||oneplusbbs.com
 ||onlinedown.net
 ||open-open.com
 ||ops.moe
-||oray.com
 ||oschina.io
 ||oschina.net
-||ourdvsss.com
-||overwatchleague.cn
 
 ! P
 ||paipai.com
@@ -674,3 +669,6 @@
 ||acgvideo.com
 ||hdslb.com
 ||bilivideo.com
+
+! 文献检索
+||gxlib.org
